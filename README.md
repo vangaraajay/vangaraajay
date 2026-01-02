@@ -1,4 +1,6 @@
-## Hi there 👋
+# My name is Ajay Vangara!
+
+I'm a computer science major at the University of Florida who loves building! I have experience with a variety of technologies include React, React Native, Node.js and cloud infrastructure through AWS and Terraform. I'm constantly looking to experiment and build with new things and one day I hope to use my skills to make a genuine difference in the world! Welcome to my github page (I'm still early in my career so it's not too full) but I'd love for you to explore some of the things I'm working on!
 
 <!--
 **vangaraajay/vangaraajay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
